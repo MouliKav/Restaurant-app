@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RestaurantApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_Restaurant">Please add restaurant</string>
+    <string name="menu_insert">Add Restaurant</string>
+    <string name="menu_delete">Delete Restaurant</string>
+    <string name="title">Add Restaurant</string>
+    <string name="Res_Address">Address of Restaurant</string>
+    <string name="confirm">Add to List</string>
+    <string name="edit_note">Add Restaurant</string>
+    <string name="title_list">List Of Restaurants:</string>
+    <string name="Contact_No">Phone Number:</string>
+    <string name="Hello_World">hi :) success1:</string>
+    <string name="Display_Title">Restaurant Details</string>
+</resources>
